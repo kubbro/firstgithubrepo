@@ -1,9 +1,3 @@
-test Git Quick Start demo
+This is just some random text !!
 
-
-just another dull test
-
-`
-`
-
-vdyavyjavdjgzÆ
+hey hey !
